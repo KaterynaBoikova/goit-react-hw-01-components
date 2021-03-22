@@ -1,7 +1,7 @@
 .statistics{
     height: auto;
     background: white;
-    margin: 30px;
+    margin: 30px auto 30px auto;
     border-radius: 5px;
     border: 1px solid rgb(228, 233, 240);
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
